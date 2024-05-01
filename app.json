@@ -1,9 +1,9 @@
 {
-  "name":"Zokou-2.0",
-  "description":"bot whatsapp développé par djalega++",
+  "name":"SHaYan-3.0",
+  "description":"bot whatsapp développé par SHaYan-AFriDi",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "logo":"https://telegra.ph/file/c68cf8fda9e777137b5b8.jpg",
+  "repository":"https://github.com/QXS-871",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
+      "value":"SHaYan-AFriDi",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value":"https://telegra.ph/file/c68cf8fda9e777137b5b8.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Djalega++"
+    "value": "SuLiMaN AFriDi"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "22891733300"
+    "value": "923140529832"
   },
     "WARN_COUNT":
   {
